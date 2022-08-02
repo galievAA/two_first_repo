@@ -10,3 +10,6 @@
 1. git pull
 2. git push
 3. смотреть подсказки возможно надо сделать commit -m
+4.  git push --set-upstream origin
+
+## Картинка
